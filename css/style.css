@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Bitter', serif;
+
+}
+
+
+header{
+    min-height: 100vh;
+    background-position: center;
+    background-image: linear-gradient(rgba(0,0,0,0.8) ,rgba(0,0,0,0.8)),url(../images/5.jpg);
+    
+   
+}
+h1{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-top: 150px;
+    
+
+}
+.txt{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+
+}
+
+.card img{
+    margin-top: -100px;
+}
